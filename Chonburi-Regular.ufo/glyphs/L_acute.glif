@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="1">
+  <advance width="668"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="87" y="50" type="line" smooth="yes"/>
+      <point x="87" y="34"/>
+      <point x="82" y="32"/>
+      <point x="63" y="28" type="curve" smooth="yes"/>
+      <point x="26" y="20" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="630" y="199" type="line"/>
+      <point x="602" y="199" type="line"/>
+      <point x="563" y="87"/>
+      <point x="540" y="30"/>
+      <point x="417" y="30" type="curve" smooth="yes"/>
+      <point x="291" y="30" type="line"/>
+      <point x="291" y="649" type="line" smooth="yes"/>
+      <point x="291" y="665"/>
+      <point x="296" y="667"/>
+      <point x="315" y="671" type="curve" smooth="yes"/>
+      <point x="358" y="680" type="line"/>
+      <point x="358" y="700" type="line"/>
+      <point x="26" y="700" type="line"/>
+      <point x="26" y="680" type="line"/>
+      <point x="63" y="672" type="line" smooth="yes"/>
+      <point x="82" y="668"/>
+      <point x="87" y="666"/>
+      <point x="87" y="650" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="350" y="867"/>
+      <point x="273" y="813"/>
+      <point x="218" y="771" type="curve"/>
+      <point x="223" y="760" type="line"/>
+      <point x="284" y="770"/>
+      <point x="388" y="797"/>
+      <point x="449" y="825" type="curve"/>
+      <point x="448" y="863"/>
+      <point x="423" y="898"/>
+      <point x="393" y="912" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
