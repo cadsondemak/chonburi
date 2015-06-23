@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="668"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="87" y="50" type="line" smooth="yes"/>
+      <point x="87" y="34"/>
+      <point x="82" y="32"/>
+      <point x="63" y="28" type="curve" smooth="yes"/>
+      <point x="26" y="20" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="630" y="199" type="line"/>
+      <point x="602" y="199" type="line"/>
+      <point x="563" y="87"/>
+      <point x="540" y="30"/>
+      <point x="417" y="30" type="curve" smooth="yes"/>
+      <point x="291" y="30" type="line"/>
+      <point x="291" y="649" type="line" smooth="yes"/>
+      <point x="291" y="665"/>
+      <point x="296" y="667"/>
+      <point x="315" y="671" type="curve" smooth="yes"/>
+      <point x="358" y="680" type="line"/>
+      <point x="358" y="700" type="line"/>
+      <point x="26" y="700" type="line"/>
+      <point x="26" y="680" type="line"/>
+      <point x="63" y="672" type="line" smooth="yes"/>
+      <point x="82" y="668"/>
+      <point x="87" y="666"/>
+      <point x="87" y="650" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="546" y="515"/>
+      <point x="533" y="486"/>
+      <point x="488" y="440" type="curve"/>
+      <point x="506" y="423" type="line"/>
+      <point x="568" y="471"/>
+      <point x="620" y="546"/>
+      <point x="620" y="624" type="curve" smooth="yes"/>
+      <point x="620" y="680"/>
+      <point x="586" y="708"/>
+      <point x="536" y="708" type="curve" smooth="yes"/>
+      <point x="484" y="708"/>
+      <point x="456" y="673"/>
+      <point x="456" y="632" type="curve" smooth="yes"/>
+      <point x="456" y="590"/>
+      <point x="483" y="553"/>
+      <point x="547" y="560" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

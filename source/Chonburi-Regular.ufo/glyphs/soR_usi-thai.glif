@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="soRusi-thai" format="1">
+  <advance width="780"/>
+  <unicode hex="0E29"/>
+  <outline>
+    <contour>
+      <point x="364" y="288" type="line"/>
+      <point x="489" y="288" type="line"/>
+      <point x="489" y="144" type="line" smooth="yes"/>
+      <point x="489" y="49"/>
+      <point x="467" y="18"/>
+      <point x="387" y="18" type="curve" smooth="yes"/>
+      <point x="307" y="18"/>
+      <point x="285" y="48"/>
+      <point x="285" y="144" type="curve" smooth="yes"/>
+      <point x="285" y="558" type="line"/>
+      <point x="264" y="558" type="line"/>
+      <point x="26" y="528" type="line"/>
+      <point x="26" y="507" type="line"/>
+      <point x="59" y="501" type="line" smooth="yes"/>
+      <point x="78" y="497"/>
+      <point x="83" y="495"/>
+      <point x="83" y="479" type="curve" smooth="yes"/>
+      <point x="83" y="174" type="line" smooth="yes"/>
+      <point x="83" y="56"/>
+      <point x="156" y="-12"/>
+      <point x="387" y="-12" type="curve" smooth="yes"/>
+      <point x="618" y="-12"/>
+      <point x="691" y="56"/>
+      <point x="691" y="174" type="curve" smooth="yes"/>
+      <point x="691" y="288" type="line"/>
+      <point x="764" y="288" type="line"/>
+      <point x="764" y="312" type="line"/>
+      <point x="691" y="312" type="line"/>
+      <point x="691" y="558" type="line"/>
+      <point x="670" y="558" type="line"/>
+      <point x="432" y="528" type="line"/>
+      <point x="432" y="507" type="line"/>
+      <point x="465" y="501" type="line" smooth="yes"/>
+      <point x="484" y="497"/>
+      <point x="489" y="495"/>
+      <point x="489" y="479" type="curve" smooth="yes"/>
+      <point x="489" y="321" type="line"/>
+      <point x="396" y="352" type="line"/>
+      <point x="378" y="341"/>
+      <point x="371" y="326"/>
+      <point x="364" y="312" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
