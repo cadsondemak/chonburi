@@ -1,0 +1,209 @@
+@font-face {
+    font-family: 'Chonburi-Regular';
+    src: url('fonts/Chonburi-Regular.ttf') format('truetype'),
+         url('fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Chonburi-Regular.woff') format('woff');
+    font-weight: 400;
+}
+
+#block-1 {
+  color: #FFF;
+  background-color: #3FA9F5;
+}
+
+#block-1-header {
+  font-family: Chonburi-Regular;
+  font-size: 25pt;
+  font-weight: 400;
+  line-height: 200%;
+  text-align: center;
+  padding-top: 180px;
+  padding-bottom: 210px;
+}
+
+#name {
+  font-size: 90pt;
+  font-weight: 400;
+}
+
+#block-2 {
+  color: #3FA9F5;
+  background-color: #FFF;
+  font-family: Chonburi-Regular;
+  font-size: 60pt;
+  line-height: 120%;
+  font-weight: normal;
+  text-align: left;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#block-3 {
+  background: url("img/block03.png") no-repeat center;
+  color: #FFF;
+  background-color: #3FA9F5;
+}
+
+#block-3-text {
+  font-family: Chonburi-Regular;
+  font-size: 20pt;
+  font-weight: 400;
+  line-height: 140%;
+  text-align: left;
+  padding-top: 400px;
+  padding-bottom: 120px;
+}
+
+#block-4 {
+  background: url("img/block04.png") no-repeat center;
+  color: #FFF;
+  background-color: #333333;
+}
+
+#block-4-text {
+  font-family: Chonburi-Regular;
+  font-size: 20pt;
+  font-weight: 400;
+  line-height: 120%;
+  text-align: left;
+  padding-top: 450px;
+  padding-bottom: 100px;
+}
+
+#block-5 {
+  background: url("img/block05.png") no-repeat center;
+  color: #333333;
+  background-color: #FFF;
+  padding-top: 700px;
+}
+
+#block-6 {
+  color: #FFF;
+  background-color: #3FA9F5;
+  padding-top: 200px;
+  padding-bottom: 250px;
+}
+
+#block-6-text1 {
+  font-family: Chonburi-Regular;
+  font-size: 100pt;
+  line-height: 80%;
+  font-weight: 400;
+  text-align: center;
+}
+
+#block-6-text2 {
+  font-family: Chonburi-Regular;
+  color: #333333;
+  font-size: 120pt;
+  line-height: 110%;
+  font-weight: 400;
+  text-align: center;
+}
+
+#block-6-text3 {
+  font-family: Chonburi-Regular;
+  font-size: 50pt;
+  line-height: 30%;
+  font-weight: 400;
+  text-align: center;
+}
+
+#block-7 {
+  background: url("img/block07.png") no-repeat center;
+  color: #FFF;
+  background-color: #333333;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+#block-7-text {
+  font-family: Chonburi-Regular;
+  font-size: 24pt;
+  font-weight: 400;
+  line-height: 150%;
+  text-align: left;
+}
+
+#block-7-head {
+  font-family: Chonburi-Regular;
+  font-size: 68pt;
+  font-weight: 400;
+  line-height: 120%;
+  text-align: left;
+}
+
+#block-8 {
+  background: url("img/block08.png") no-repeat center;
+  color: #FFF;
+  background-color: #333333;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+#block-8-text {
+  font-family: Chonburi-Regular;
+  font-size: 24pt;
+  font-weight: 400;
+  line-height: 150%;
+  text-align: left;
+}
+
+#block-8-head {
+  font-family: Chonburi-Regular;
+  font-size: 68pt;
+  font-weight: 400;
+  line-height: 120%;
+  text-align: left;
+}
+
+#block-9 {
+  color: #3FA9F5;
+  background-color: #FFF;
+  font-family: Chonburi-Regular;
+  font-size: 60pt;
+  line-height: 110%;
+  font-weight: 400;
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+#block-9-Title {
+  font-family: Chonburi-Regular;
+  font-size: 18pt;
+  font-weight: 400;
+  text-align: left;
+  letter-spacing: 0px
+}
+
+#block-9-Char {
+  font-family: Chonburi-Regular;
+  font-size: 40pt;
+  font-weight: 400;
+  text-align: left;
+  letter-spacing: 3px
+}
+
+#block-9-Vowel {
+  font-family: Chonburi-Regular;
+  line-height: 150%;
+  font-size: 40pt;
+  font-weight: 400;
+  text-align: left;
+}
+
+#Line1 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #3FA9F5;
+}
+
+#Line2 {
+    display: block;
+    height: 1px;
+    border: 0;
+    margin-bottom: 15px;
+    border-top: 1px solid #3FA9F5;
+}
