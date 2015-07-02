@@ -780,9 +780,22 @@
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>0</integer>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>400</real>
+	<integer>400</integer>
 	<key>com.schriftgestaltung.widthValue</key>
-	<real>5</real>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<real>179.579</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>7</integer>
+			<key>y</key>
+			<integer>1100</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
