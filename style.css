@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Chonburi-Regular';
-    src: url('fonts/Chonburi-Regular.ttf') format('truetype'),
-         url('fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Chonburi-Regular.woff') format('woff');
+    src: url('/fonts/Chonburi-Regular.ttf') format('truetype'),
+         url('/fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/Chonburi-Regular.woff') format('woff');
     font-weight: 400;
 }
 
