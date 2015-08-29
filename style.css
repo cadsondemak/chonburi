@@ -34,14 +34,15 @@
   line-height: 120%;
   font-weight: normal;
   text-align: left;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 150px;
+  height: 700px;
 }
 
 #block-3 {
   background: url("img/block03.png") no-repeat center;
   color: #FFF;
   background-color: #3FA9F5;
+  height: 700px;
 }
 
 #block-3-text {
@@ -58,6 +59,7 @@
   background: url("img/block04.png") no-repeat center;
   color: #FFF;
   background-color: #333333;
+  height: 700px;
 }
 
 #block-4-text {
@@ -74,7 +76,7 @@
   background: url("img/block05.png") no-repeat center;
   color: #333333;
   background-color: #FFF;
-  padding-top: 700px;
+  height: 720px;
 }
 
 #block-6 {
