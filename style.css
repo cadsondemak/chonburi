@@ -1,9 +1,11 @@
 @font-face {
-    font-family: 'Chonburi-Regular';
-    src: url('fonts/Chonburi-Regular.ttf') format('truetype'),
-         url('fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Chonburi-Regular.woff') format('woff');
-    font-weight: 400;
+  font-family: 'Chonburi-Regular';
+  src: url('fonts/Chonburi-Regular.eot'); /* IE9 Compat Modes */
+  src: url('fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/Chonburi-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/Chonburi-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/Chonburi-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-weight: 400;
 }
 
 #block-1 {
