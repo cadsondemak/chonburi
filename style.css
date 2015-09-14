@@ -3,7 +3,6 @@
     src: url('./fonts/Chonburi-Regular.ttf') format('truetype'),
          url('./fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Chonburi-Regular.woff') format('woff');
-    font-weight: 400;
 }
 
 #block-1 {
@@ -14,7 +13,7 @@
 #block-1-header {
   font-family: Chonburi-Regular;
   font-size: 25pt;
-  font-weight: 400;
+
   line-height: 200%;
   text-align: center;
   padding-top: 180px;
@@ -23,7 +22,7 @@
 
 #name {
   font-size: 90pt;
-  font-weight: 400;
+
 }
 
 #block-2 {
@@ -48,7 +47,7 @@
 #block-3-text {
   font-family: Chonburi-Regular;
   font-size: 20pt;
-  font-weight: 400;
+
   line-height: 140%;
   text-align: left;
   padding-top: 400px;
@@ -65,7 +64,7 @@
 #block-4-text {
   font-family: Chonburi-Regular;
   font-size: 20pt;
-  font-weight: 400;
+
   line-height: 120%;
   text-align: left;
   padding-top: 450px;
@@ -90,7 +89,7 @@
   font-family: Chonburi-Regular;
   font-size: 100pt;
   line-height: 80%;
-  font-weight: 400;
+
   text-align: center;
 }
 
@@ -99,7 +98,7 @@
   color: #333333;
   font-size: 120pt;
   line-height: 110%;
-  font-weight: 400;
+
   text-align: center;
 }
 
@@ -107,7 +106,7 @@
   font-family: Chonburi-Regular;
   font-size: 50pt;
   line-height: 30%;
-  font-weight: 400;
+
   text-align: center;
 }
 
@@ -123,7 +122,7 @@
 #block-7-text {
   font-family: Chonburi-Regular;
   font-size: 24pt;
-  font-weight: 400;
+
   line-height: 150%;
   text-align: left;
 }
@@ -131,7 +130,7 @@
 #block-7-head {
   font-family: Chonburi-Regular;
   font-size: 68pt;
-  font-weight: 400;
+
   line-height: 120%;
   text-align: left;
 }
@@ -148,7 +147,7 @@
 #block-8-text {
   font-family: Chonburi-Regular;
   font-size: 24pt;
-  font-weight: 400;
+
   line-height: 150%;
   text-align: left;
 }
@@ -156,7 +155,7 @@
 #block-8-head {
   font-family: Chonburi-Regular;
   font-size: 68pt;
-  font-weight: 400;
+
   line-height: 120%;
   text-align: left;
 }
@@ -167,7 +166,7 @@
   font-family: Chonburi-Regular;
   font-size: 60pt;
   line-height: 110%;
-  font-weight: 400;
+
   text-align: left;
   padding-top: 50px;
   padding-bottom: 70px;
@@ -176,7 +175,7 @@
 #block-9-Title {
   font-family: Chonburi-Regular;
   font-size: 18pt;
-  font-weight: 400;
+
   text-align: left;
   letter-spacing: 0px
 }
@@ -184,7 +183,7 @@
 #block-9-Char {
   font-family: Chonburi-Regular;
   font-size: 40pt;
-  font-weight: 400;
+
   text-align: left;
   letter-spacing: 3px
 }
@@ -193,7 +192,7 @@
   font-family: Chonburi-Regular;
   line-height: 150%;
   font-size: 40pt;
-  font-weight: 400;
+
   text-align: left;
 }
 
