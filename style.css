@@ -1,18 +1,10 @@
 @font-face {
-<<<<<<< HEAD
     font-family: 'Chonburi-Regular';
-    src: url('./fonts/Chonburi-Regular.ttf') format('truetype'),
-         url('./fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Chonburi-Regular.woff') format('woff');
-=======
-  font-family: 'Chonburi-Regular';
-  src: url('fonts/Chonburi-Regular.eot'); /* IE9 Compat Modes */
-  src: url('fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/Chonburi-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/Chonburi-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/Chonburi-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
-  font-weight: 400;
->>>>>>> origin/gh-pages
+    src: url('./fonts/Chonburi-Regular.eot');
+    src: url('./fonts/Chonburi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Chonburi-Regular.woff2') format('woff2'),
+         url('./fonts/Chonburi-Regular.woff') format('woff'),
+         url('./fonts/Chonburi-Regular.ttf') format('truetype');
 }
 
 #block-1 {
@@ -21,7 +13,7 @@
 }
 
 #block-1-header {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 25pt;
 
   line-height: 200%;
@@ -38,7 +30,7 @@
 #block-2 {
   color: #3FA9F5;
   background-color: #FFF;
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 60pt;
   line-height: 120%;
   font-weight: normal;
@@ -55,7 +47,7 @@
 }
 
 #block-3-text {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 20pt;
 
   line-height: 140%;
@@ -72,7 +64,7 @@
 }
 
 #block-4-text {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 20pt;
 
   line-height: 120%;
@@ -96,7 +88,7 @@
 }
 
 #block-6-text1 {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 100pt;
   line-height: 80%;
 
@@ -104,7 +96,7 @@
 }
 
 #block-6-text2 {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   color: #333333;
   font-size: 120pt;
   line-height: 110%;
@@ -113,7 +105,7 @@
 }
 
 #block-6-text3 {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 50pt;
   line-height: 30%;
 
@@ -130,7 +122,7 @@
 }
 
 #block-7-text {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 24pt;
 
   line-height: 150%;
@@ -138,7 +130,7 @@
 }
 
 #block-7-head {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 68pt;
 
   line-height: 120%;
@@ -155,7 +147,7 @@
 }
 
 #block-8-text {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 24pt;
 
   line-height: 150%;
@@ -163,7 +155,7 @@
 }
 
 #block-8-head {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 68pt;
 
   line-height: 120%;
@@ -173,7 +165,7 @@
 #block-9 {
   color: #3FA9F5;
   background-color: #FFF;
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 60pt;
   line-height: 110%;
 
@@ -183,7 +175,7 @@
 }
 
 #block-9-Title {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 18pt;
 
   text-align: left;
@@ -191,7 +183,7 @@
 }
 
 #block-9-Char {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   font-size: 40pt;
 
   text-align: left;
@@ -199,7 +191,7 @@
 }
 
 #block-9-Vowel {
-  font-family: Chonburi-Regular;
+  font-family: 'Chonburi-Regular';
   line-height: 150%;
   font-size: 40pt;
 
