@@ -8,7 +8,7 @@ A similarity between some glyphs such as [ก ถ ภ ฤ ฦ] [ฎ ฏ] [บ �
 
 There is a specific approach on how to deal with thick and thin stroke for Thai glyphs. In order to develop Thai fonts, it is encouraged to take this font as an example for such method and other developments.
 
-Thai display tyefaces are simplified from a conservative looped or loopless Thai so this simplification has to be done properly in order to preserve the character.
+Thai display tyefaces are simplified from a conservative looped or loopless Thai so this simplification has to be done properly in order to preserve the character of each glyph.
 
 Sizes and positions of vowels and tone marks need to be managed carefully because they are all relevant to readability, legibility, and overall textures.
 
