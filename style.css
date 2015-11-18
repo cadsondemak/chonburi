@@ -10,16 +10,15 @@
 #block-1 {
   color: #FFF;
   background-color: #3FA9F5;
+  height: 700px;
 }
 
 #block-1-header {
   font-family: 'Chonburi-Regular';
   font-size: 25pt;
-
   line-height: 200%;
   text-align: center;
-  padding-top: 180px;
-  padding-bottom: 210px;
+  padding-top: 220px;
 }
 
 #name {
@@ -49,7 +48,6 @@
 #block-3-text {
   font-family: 'Chonburi-Regular';
   font-size: 20pt;
-
   line-height: 140%;
   text-align: left;
   padding-top: 400px;
@@ -66,7 +64,6 @@
 #block-4-text {
   font-family: 'Chonburi-Regular';
   font-size: 20pt;
-
   line-height: 120%;
   text-align: left;
   padding-top: 450px;
@@ -83,15 +80,14 @@
 #block-6 {
   color: #FFF;
   background-color: #3FA9F5;
-  padding-top: 200px;
-  padding-bottom: 250px;
+  height: 700px;
+  padding-top: 150px;
 }
 
 #block-6-text1 {
   font-family: 'Chonburi-Regular';
   font-size: 100pt;
   line-height: 80%;
-
   text-align: center;
 }
 
@@ -100,7 +96,6 @@
   color: #333333;
   font-size: 120pt;
   line-height: 110%;
-
   text-align: center;
 }
 
@@ -108,7 +103,6 @@
   font-family: 'Chonburi-Regular';
   font-size: 50pt;
   line-height: 30%;
-
   text-align: center;
 }
 
@@ -117,14 +111,13 @@
   background-size: cover;
   color: #FFF;
   background-color: #333333;
+  height: 700px;
   padding-top: 110px;
-  padding-bottom: 110px;
 }
 
 #block-7-text {
   font-family: 'Chonburi-Regular';
   font-size: 24pt;
-
   line-height: 150%;
   text-align: left;
 }
@@ -132,7 +125,6 @@
 #block-7-head {
   font-family: 'Chonburi-Regular';
   font-size: 68pt;
-
   line-height: 120%;
   text-align: left;
 }
@@ -142,14 +134,13 @@
   background-size: cover;
   color: #FFF;
   background-color: #333333;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  height: 700px;
+  padding-top: 280px;
 }
 
 #block-8-text {
   font-family: 'Chonburi-Regular';
   font-size: 24pt;
-
   line-height: 150%;
   text-align: left;
 }
@@ -157,7 +148,6 @@
 #block-8-head {
   font-family: 'Chonburi-Regular';
   font-size: 68pt;
-
   line-height: 120%;
   text-align: left;
 }
@@ -166,26 +156,30 @@
   color: #3FA9F5;
   background-color: #FFF;
   font-family: 'Chonburi-Regular';
-  font-size: 60pt;
+  font-size: 50pt;
   line-height: 110%;
-
   text-align: left;
   padding-top: 50px;
-  padding-bottom: 70px;
 }
 
 #block-9-Title {
   font-family: 'Chonburi-Regular';
-  font-size: 18pt;
-
+  font-size: 14pt;
   text-align: left;
   letter-spacing: 0px
 }
 
 #block-9-Char {
   font-family: 'Chonburi-Regular';
-  font-size: 40pt;
+  font-size: 36pt;
+  text-align: left;
+  letter-spacing: 3px
+}
 
+#block-9-Char-2 {
+  font-family: 'Chonburi-Regular';
+  font-size: 20pt;
+  line-height: 150%;
   text-align: left;
   letter-spacing: 3px
 }
@@ -193,8 +187,7 @@
 #block-9-Vowel {
   font-family: 'Chonburi-Regular';
   line-height: 150%;
-  font-size: 40pt;
-
+  font-size: 32pt;
   text-align: left;
 }
 
